@@ -1,0 +1,2 @@
+/usr/bin/ar qc libSerial_Manager.a CMakeFiles/Serial_Manager.dir/src/Serial_Manager.cpp.o
+/usr/bin/ranlib libSerial_Manager.a
